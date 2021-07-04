@@ -1,2 +1,5 @@
 #manifest들 무시하기
 *.manifest
+
+#gcc .out들 무시하기
+*.out
