@@ -3,3 +3,6 @@
 
 #gcc .out들 무시하기
 *.out
+
+#unsolved 폴더 무시하기
+unsolved/
